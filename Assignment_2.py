@@ -68,7 +68,7 @@ for k in range(5, 8):
 
     arraySize = 10 ** k
 
-    print("Test " + str(k - 4) + "-----------------------")
+    print("Test " + str(k - 4) + "--------------------------------------------------")
     print("")
 
     array, nonMembers, members = arrayPrepare(arraySize)
